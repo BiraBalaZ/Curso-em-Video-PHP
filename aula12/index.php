@@ -9,7 +9,12 @@
 <body>
     <div>
         <?php
-        
+            $contador = 1;
+            do {
+                echo "$contador<br>";
+                $contador++;
+            }
+            while ($contador <= 10);
         ?>
     </div>
 </body>

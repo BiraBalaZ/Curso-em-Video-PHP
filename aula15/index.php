@@ -9,7 +9,11 @@
 <body>
     <div>
         <?php
-        
+            include "funcoes.php";
+            
+            $a = 3;
+            teste($a);
+            echo "<p>O valor de A é <span class='foco'>$a</span></p>";
         ?>
     </div>
 </body>
