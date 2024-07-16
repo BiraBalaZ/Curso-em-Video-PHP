@@ -9,7 +9,7 @@
 <body>
     <div>
         <?php
-            $ano = isset($_GET["ano"])?$_GET["ano"]:2000;
+            $ano = isset($_GET["ano"])?$_GET["ano"]:1900;
             $idade = date("Y") - $ano;
 
             echo "Você nasceu em $ano, tem $idade anos de idade.<br>";
