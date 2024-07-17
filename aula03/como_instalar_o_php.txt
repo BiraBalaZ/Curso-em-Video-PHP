@@ -1,0 +1,7 @@
+Nessa aula do Curso Grátis de PHP para Iniciantes você vai aprender
+como instalar um servidor PHP no seu computador e vai ver como criar
+o seu primeiro exemplo de código PHP: o “Olá, Mundo!”.
+
+É possível instalar o PHP no seu PC, bem como todas as ferramentas
+necessárias para o desenvolvimento na linguagem, como o Apache, MySQL,
+PHPMyAdmin, interpretadores e etc.
